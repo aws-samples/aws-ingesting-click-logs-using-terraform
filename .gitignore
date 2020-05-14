@@ -1,0 +1,15 @@
+source/clicklogger/src/main/.DS_Store
+source/clicklogger/src/main/java/.DS_Store
+source/clicklogger/src/main/java/com/.DS_Store
+source/clicklogger/src/main/java/com/clicklogs/.DS_Store
+source/clicklogger/src/main/.DS_Store
+source/clicklogger/src/main/java/.DS_Store
+source/clicklogger/src/main/java/com/.DS_Store
+source/clicklogger/src/main/java/com/clicklogs/.DS_Store
+terraform/templates/terraform.tfstate
+terraform/templates/.terraform/plugins/darwin_amd64/lock.json
+terraform/templates/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.61.0_x4
+terraform/templates/.terraform.tfstate.lock.info
+source/clicklogger/src/test/.DS_Store
+source/clicklogger/src/test/java/.DS_Store
+source/clicklogger/src/test/java/com/.DS_Store
