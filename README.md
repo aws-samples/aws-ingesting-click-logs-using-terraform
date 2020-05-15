@@ -37,7 +37,7 @@ The following steps provide an overview of this implementation:
     $ mvn clean package
     $ cd ..
     $ cd ..
-    $ cd templates\terraform
+    $ cd terraform\templates
     $ terraform init
     $ terraform plan
     $ terraform apply –auto-approve
@@ -98,6 +98,14 @@ https://aws.amazon.com/api-gateway/api-management/
 
 * Amazon Kinesis
 https://aws.amazon.com/kinesis/
+
+* API Gateway with Lambda Authorizers
+https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-control-access-to-api.html
+
+* Kinesis Data Streams (KDS)
+https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-control-access-to-api.html
+
+
 
 
 
