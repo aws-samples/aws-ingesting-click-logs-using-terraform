@@ -6,7 +6,7 @@ variable "app_prefix" {
 
 variable "stage_name" {
   default = "dev"
-  type    = "string"
+  type    = string
 }
 
 variable "lambda_source_zip_path" {
